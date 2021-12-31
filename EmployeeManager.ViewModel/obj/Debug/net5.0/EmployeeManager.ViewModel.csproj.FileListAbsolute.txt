@@ -1,0 +1,15 @@
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.deps.json
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfo.cs
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CopyComplete
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.pdb

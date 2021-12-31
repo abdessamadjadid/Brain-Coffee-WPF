@@ -1,0 +1,11 @@
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.deps.json
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\bin\Debug\net5.0\ref\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfoInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfo.cs
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\ref\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.pdb

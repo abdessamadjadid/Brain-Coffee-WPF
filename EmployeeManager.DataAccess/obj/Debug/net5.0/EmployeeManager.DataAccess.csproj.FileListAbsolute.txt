@@ -1,0 +1,15 @@
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.deps.json
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfo.cs
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CopyComplete
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\Abdessamad\Desktop\Desktop apps Resources\04\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.pdb
